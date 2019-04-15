@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaevahwed.mbg-accountancy.nl/sitemap.xml
